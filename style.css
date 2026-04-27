@@ -154,6 +154,10 @@ h1, h2, h3, p { margin: 0; }
   font-size: 1.04rem;
 }
 
+.accent-green-copy {
+  color: var(--green);
+}
+
 .hero-actions {
   display: flex;
   gap: 0.9rem;
